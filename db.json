@@ -1,0 +1,299 @@
+{
+  "class": [
+    {
+      "id": "33fbf0cd-c8c1-47c3-81a0-146bbf76129f",
+      "totalStudent": 6,
+      "supervising_Teacher": "Hoàng Danh Nhân",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/jeremiespoken_128.jpg"
+    },
+    {
+      "id": "134d2ea0-f8cd-458e-a103-f7f207d95c26",
+      "totalStudent": 31,
+      "supervising_Teacher": "Phạm Hướng Bình",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/jjshaw14_128.jpg"
+    },
+    {
+      "id": "4031d639-9b90-446e-bca4-cc4852dec54d",
+      "totalStudent": 17,
+      "supervising_Teacher": "Đoàn Đông Vy",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/ludwiczakpawel_128.jpg"
+    },
+    {
+      "id": "2d381689-13d5-4d40-84a1-2e82f03984a6",
+      "totalStudent": 16,
+      "supervising_Teacher": "Phùng Thúy Huyền",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/spedwig_128.jpg"
+    },
+    {
+      "id": "0311a9a5-4cee-4c6d-a742-a548cf424326",
+      "totalStudent": 39,
+      "supervising_Teacher": "Dương Hương Lan",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/creartinc_128.jpg"
+    },
+    {
+      "id": "684cb7e1-60a4-475c-9528-4b0ec39621c2",
+      "totalStudent": 31,
+      "supervising_Teacher": "Tô Thu Sinh",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/elliotlewis_128.jpg"
+    },
+    {
+      "id": "83766999-3a63-4985-aa3b-04eae4b9d080",
+      "totalStudent": 3,
+      "supervising_Teacher": "Đặng Tuyết Hoa",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/mutlu82_128.jpg"
+    },
+    {
+      "id": "287bdae2-d25e-4165-96ec-2c2c0b31b15c",
+      "totalStudent": 30,
+      "supervising_Teacher": "Lâm Yên Sơn",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/jordyvdboom_128.jpg"
+    },
+    {
+      "id": "91874dfe-ada7-4f03-8b63-855bac6af4c4",
+      "totalStudent": 7,
+      "supervising_Teacher": "Phan Di Nhiên",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/ernestsemerda_128.jpg"
+    },
+    {
+      "id": "42c1fbe7-7300-49d7-829e-6e0374934ae8",
+      "totalStudent": 30,
+      "supervising_Teacher": "Lâm Lệ Huyền",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/andrea211087_128.jpg"
+    },
+    {
+      "id": "f74e3541-911a-4297-933c-79cd8ef3a8ef",
+      "totalStudent": 13,
+      "supervising_Teacher": "Trương Quang Linh",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/bboy1895_128.jpg"
+    },
+    {
+      "id": "dba15167-e5a2-4d61-98f9-3c753bc62142",
+      "totalStudent": 35,
+      "supervising_Teacher": "Lý Hồng Thủy",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/jnmnrd_128.jpg"
+    },
+    {
+      "id": "7bfb2b28-966b-4eda-bf9a-82f5ce87548d",
+      "totalStudent": 38,
+      "supervising_Teacher": "Đinh Thái Ðức",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/clubb3rry_128.jpg"
+    },
+    {
+      "id": "53801179-4975-4b4c-b776-29bb7fea453e",
+      "totalStudent": 39,
+      "supervising_Teacher": "Vũ Yến Trinh",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/weglov_128.jpg"
+    },
+    {
+      "id": "821693a1-5bf3-4cfe-98af-c0e4314f3855",
+      "totalStudent": 21,
+      "supervising_Teacher": "Phùng Tâm Nhi",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/cadikkara_128.jpg"
+    },
+    {
+      "id": "dd4e0d95-955c-4546-b3ae-3c5747666097",
+      "totalStudent": 39,
+      "supervising_Teacher": "Hoàng Chấn Hưng",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/scott_riley_128.jpg"
+    },
+    {
+      "id": "a728318c-ddbe-4b13-98da-070813d8ac3b",
+      "totalStudent": 25,
+      "supervising_Teacher": "Vũ Văn Tuyển",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/victorerixon_128.jpg"
+    },
+    {
+      "id": "6f407995-d116-4204-aa0f-34dfb51554d1",
+      "totalStudent": 16,
+      "supervising_Teacher": "Tô Anh Thy",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/dnezkumar_128.jpg"
+    },
+    {
+      "id": "4906c914-8df9-4ba3-a91c-6376589e107d",
+      "totalStudent": 20,
+      "supervising_Teacher": "Ngô Cao Sỹ",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/mrjamesnoble_128.jpg"
+    },
+    {
+      "id": "1fe81e3d-624e-4f6b-a898-0688defdc883",
+      "totalStudent": 40,
+      "supervising_Teacher": "Ngô Hữu Minh",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/stefvdham_128.jpg"
+    },
+    {
+      "createdAt": 1617273724413,
+      "updatedAt": 1617273724413,
+      "id": "rFa6K5q"
+    },
+    {
+      "totalStudent": 1,
+      "supervising_Teacher": "Trần Đức Giang",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/stefvdham_128.jpg",
+      "createdAt": 1617273785934,
+      "updatedAt": 1617273785934,
+      "id": "qtJAhJk"
+    }
+  ],
+  "students": [
+    {
+      "class_id": "33fbf0cd-c8c1-47c3-81a0-146bbf76129f",
+      "id": "7aa486fe-830d-429e-a744-2cdf4fac99e7",
+      "name": "Lê Ðức Anh",
+      "sex": "Cisgender Man",
+      "medium_score": 3,
+      "avatar": "https://cdn.fakercloud.com/avatars/ionuss_128.jpg"
+    },
+    {
+      "class_id": "134d2ea0-f8cd-458e-a103-f7f207d95c26",
+      "id": "4bc99e0e-6403-468c-a38b-e7a7948892d2",
+      "name": "Đỗ Hải Bình",
+      "sex": "Cis",
+      "medium_score": 1,
+      "avatar": "https://cdn.fakercloud.com/avatars/mizhgan_128.jpg"
+    },
+    {
+      "class_id": "4031d639-9b90-446e-bca4-cc4852dec54d",
+      "id": "a3560be6-cdba-4897-a194-7bbfbc6f868e",
+      "name": "Dương Anh Khôi",
+      "sex": "Trans Man",
+      "medium_score": 9,
+      "avatar": "https://cdn.fakercloud.com/avatars/rpeezy_128.jpg"
+    },
+    {
+      "class_id": "2d381689-13d5-4d40-84a1-2e82f03984a6",
+      "id": "dae4b505-e2f7-436a-8cc3-b340fad9c312",
+      "name": "Phùng Tú Anh",
+      "sex": "Male to female transsexual woman",
+      "medium_score": 9,
+      "avatar": "https://cdn.fakercloud.com/avatars/taybenlor_128.jpg"
+    },
+    {
+      "class_id": "0311a9a5-4cee-4c6d-a742-a548cf424326",
+      "id": "b67e19ea-7ba6-4ad4-abd1-8fc3b186771a",
+      "name": "Tăng Ðình Chương",
+      "sex": "Intersex",
+      "medium_score": 6,
+      "avatar": "https://cdn.fakercloud.com/avatars/xamorep_128.jpg"
+    },
+    {
+      "class_id": "684cb7e1-60a4-475c-9528-4b0ec39621c2",
+      "id": "11c4c46d-7057-4d44-9827-fd4e6e7054a1",
+      "name": "Hoàng Quảng Ðại",
+      "sex": "Cisgender Male",
+      "medium_score": 6,
+      "avatar": "https://cdn.fakercloud.com/avatars/nicolasfolliot_128.jpg"
+    },
+    {
+      "class_id": "83766999-3a63-4985-aa3b-04eae4b9d080",
+      "id": "012bf371-ab50-41ca-9220-10a16122991e",
+      "name": "Nguyễn Mộng Long",
+      "sex": "Trans*Person",
+      "medium_score": 2,
+      "avatar": "https://cdn.fakercloud.com/avatars/atanism_128.jpg"
+    },
+    {
+      "class_id": "287bdae2-d25e-4165-96ec-2c2c0b31b15c",
+      "id": "25ad22bc-9769-4b4e-82f8-c3c2306f7ed4",
+      "name": "Hà Khải Ca",
+      "sex": "Transexual Person",
+      "medium_score": 5,
+      "avatar": "https://cdn.fakercloud.com/avatars/beshur_128.jpg"
+    },
+    {
+      "class_id": "91874dfe-ada7-4f03-8b63-855bac6af4c4",
+      "id": "49b6d171-94e9-433c-bdd9-cc291f90888c",
+      "name": "Ngô Xuân Tâm",
+      "sex": "Intersex woman",
+      "medium_score": 5,
+      "avatar": "https://cdn.fakercloud.com/avatars/brandonburke_128.jpg"
+    },
+    {
+      "class_id": "42c1fbe7-7300-49d7-829e-6e0374934ae8",
+      "id": "439cec6e-a677-4cb0-961b-059a62252f55",
+      "name": "Ngô Ðông Phương",
+      "sex": "Androgynes",
+      "medium_score": 7,
+      "avatar": "https://cdn.fakercloud.com/avatars/luxe_128.jpg"
+    },
+    {
+      "class_id": "f74e3541-911a-4297-933c-79cd8ef3a8ef",
+      "id": "a57269aa-227f-4354-b42a-8565fc515e9e",
+      "name": "Đặng Tuyết Hương",
+      "sex": "Cis",
+      "medium_score": 3,
+      "avatar": "https://cdn.fakercloud.com/avatars/alessandroribe_128.jpg"
+    },
+    {
+      "class_id": "dba15167-e5a2-4d61-98f9-3c753bc62142",
+      "id": "9d2c7478-6ab0-4184-a863-f07e8f9bc82e",
+      "name": "Ngô Như Ý",
+      "sex": "Genderqueer",
+      "medium_score": 10,
+      "avatar": "https://cdn.fakercloud.com/avatars/nbirckel_128.jpg"
+    },
+    {
+      "class_id": "7bfb2b28-966b-4eda-bf9a-82f5ce87548d",
+      "id": "6608fa54-3029-4f80-b216-09904aec2ee6",
+      "name": "Vũ Thanh Hào",
+      "sex": "Female to Male",
+      "medium_score": 6,
+      "avatar": "https://cdn.fakercloud.com/avatars/perfectflow_128.jpg"
+    },
+    {
+      "class_id": "53801179-4975-4b4c-b776-29bb7fea453e",
+      "id": "5c2c3e36-171b-46ab-8d75-178c3cbcd8d5",
+      "name": "Lý Thùy My",
+      "sex": "Cisgender Male",
+      "medium_score": 7,
+      "avatar": "https://cdn.fakercloud.com/avatars/donjain_128.jpg"
+    },
+    {
+      "class_id": "821693a1-5bf3-4cfe-98af-c0e4314f3855",
+      "id": "2eda8caa-9a41-4cd1-b723-1b864d5e3e53",
+      "name": "Lê Danh Nhân",
+      "sex": "Female to male transgender man",
+      "medium_score": 1,
+      "avatar": "https://cdn.fakercloud.com/avatars/batsirai_128.jpg"
+    },
+    {
+      "class_id": "dd4e0d95-955c-4546-b3ae-3c5747666097",
+      "id": "d3d1918f-89c3-4010-a69e-332fefb687a2",
+      "name": "Tăng Ðức Tài",
+      "sex": "Cis Male",
+      "medium_score": 2,
+      "avatar": "https://cdn.fakercloud.com/avatars/larrygerard_128.jpg"
+    },
+    {
+      "class_id": "a728318c-ddbe-4b13-98da-070813d8ac3b",
+      "id": "e71eb7c0-05c6-4034-9898-1d5cbbf6bc1f",
+      "name": "Tăng Xuân Thiện",
+      "sex": "Male to female transsexual woman",
+      "medium_score": 5,
+      "avatar": "https://cdn.fakercloud.com/avatars/benjamin_knight_128.jpg"
+    },
+    {
+      "class_id": "6f407995-d116-4204-aa0f-34dfb51554d1",
+      "id": "c6e33d43-3b07-4113-b8dd-0a4f93e98ca9",
+      "name": "Vương Ðình Ðôn",
+      "sex": "Gender Fluid",
+      "medium_score": 4,
+      "avatar": "https://cdn.fakercloud.com/avatars/noufalibrahim_128.jpg"
+    },
+    {
+      "class_id": "4906c914-8df9-4ba3-a91c-6376589e107d",
+      "id": "351705b3-8c1a-422c-8366-c82ad160d036",
+      "name": "Vương Mộng Hương",
+      "sex": "Cisgender",
+      "medium_score": 2,
+      "avatar": "https://cdn.fakercloud.com/avatars/thekevinjones_128.jpg"
+    },
+    {
+      "class_id": "1fe81e3d-624e-4f6b-a898-0688defdc883",
+      "id": "4ff2cc48-45eb-41f7-b45b-92fd6f8b8ae8",
+      "name": "Mai Ngọc Hằng",
+      "sex": "Non-binary",
+      "medium_score": 2,
+      "avatar": "https://cdn.fakercloud.com/avatars/bobbytwoshoes_128.jpg"
+    }
+  ]
+}
